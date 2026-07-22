@@ -15,5 +15,4 @@ Currently learning Java, SQL, HTML, CSS and JavaScript.
 ## 🎯 Goal
 To start my career as a Java Full Stack Developer and build real-world applications.
 
-## 📂 Projects
-Projects will be added soon.
+
